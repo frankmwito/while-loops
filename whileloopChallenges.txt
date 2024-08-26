@@ -1,0 +1,5 @@
+# 1.	Problem: Write a Python program to print all the numbers from 1 to 50 using a while loop.
+# 2.	Problem: Create a program that asks the user to enter a number and keeps asking until the user enters a negative number.
+# 3.	Problem: Write a Python program to calculate the factorial of a number using a while loop.
+# 4.	Problem: Given a list of integers, write a program to remove all odd numbers from the list using a while loop.
+# 5.	Problem: Write a Python program that generates the Fibonacci sequence up to a certain number using a while loop.
